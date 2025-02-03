@@ -1,2 +1,2 @@
-"# NetworkShowPasswords" 
-"A batch script that shows all your saved wifi passwords" 
+# NetworkShowPasswords
+A batch script that shows all your saved wifi passwords
